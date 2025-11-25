@@ -16,4 +16,9 @@
 |------|-------|---------|-------|---------|---------|---------|-------------|---------|
 | 2025 |arXiv preprint | VIRAL | [VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation](https://arxiv.org/pdf/2511.15200) | [![link](https://img.shields.io/badge/Website-9cf)](https://viral-humanoid.github.io/) | |Sim2Real |Teacher-student training | 4 |
 
+### Deformables
+| Year | Venue | Acronym | Paper |Project | Repo@GitHub | Category | Comments | Rating |
+|------|-------|---------|-------|---------|---------|---------|-------------|---------|
+| 2025 |arXiv preprint | UniGarmentManip | [UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence](https://arxiv.org/abs/2405.06903) | [![link](https://img.shields.io/badge/Website-9cf)](https://warshallrho.github.io/unigarmentmanip/) |[![GitHub](https://img.shields.io/github/stars/luhr2003/UniGarmentManip)](https://github.com/luhr2003/UniGarmentManip) | IsaacSim |Franka arm + 3 tasks | 3 |
+
 ### Co-training
