@@ -23,6 +23,7 @@
 | 2024 | CVPR | GarmentLab | [GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation](https://arxiv.org/abs/2411.01200) | [![link](https://img.shields.io/badge/Website-9cf)](https://garmentlab.github.io/) |[![GitHub](https://img.shields.io/github/stars/luhr2003/UniGarmentManip)](https://github.com/luhr2003/UniGarmentManip) | IsaacSim |Franka arm + 20 tasks + sim2real | 3.5 |
 | 2025 | IROS | GarmentPile | [GarmentPile: Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation](https://arxiv.org/pdf/2503.09243) | [![link](https://img.shields.io/badge/Website-9cf)](https://garmentpile.github.io/) |[![GitHub](https://img.shields.io/github/stars/AlwaySleepy/Garment-Pile)](https://github.com/AlwaySleepy/Garment-Pile) | IsaacSim | Cluttered Garments| 3.5 |
 | 2025 | NeurIPS | DexGarmentLab | [DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy](https://arxiv.org/pdf/2505.11032) | [![link](https://img.shields.io/badge/Website-9cf)](https://wayrise.github.io/DexGarmentLab/) |[![GitHub](https://img.shields.io/github/stars/wayrise/DexGarmentLab)](https://github.com/wayrise/DexGarmentLab) | IsaacSim | DexHand Data Collection + 15 tasks + sim2real| 4 |
+| 2025 | arXiv preprint | FoldNet | [FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis](https://arxiv.org/pdf/2505.09109) | | | PyFlex + Blender | Asset synthesis + data generation| 3.5 |
 
   
 ### Co-training
